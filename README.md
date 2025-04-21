@@ -1,5 +1,5 @@
-代码来源于B站UP主：大碗绿豆沙
-【HTML+CSS】社交按钮动画
+代码来源于B站UP主：大碗绿豆沙的视频：
+【HTML+CSS】社交按钮动画：
 
 [![](https://i0.hdslb.com/bfs/archive/589ab17adfd61df4b3f7a776d2fefe7aa159b82c.jpg@760w_428h_1c.avif)](player.bilibili.com/player.html?aid=49775093&cid=87150521&page=1)
 
